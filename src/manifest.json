@@ -9,8 +9,8 @@
     {
         "matches": ["<all_urls>"],
         "js": [
-        "content1.js",
-        "content/content2.js"]
+        "content1.ts",
+        "content/content2.ts"]
     }
   ]
 }
